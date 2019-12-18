@@ -1,23 +1,7 @@
 <template>
   <div id="tab-bar">
       <slot></slot>
-    <!-- <div class="tab-bat-item">
-        <img src="../../assets/img/tabbar/logo.png" alt="">
-        <div>首页</div>
-        
-    </div>
-    <div class="tab-bat-item">
-        <img src="../../assets/img/tabbar/logo.png" alt="">
-        <div>分类</div>
-    </div>
-    <div class="tab-bat-item">
-        <img src="../../assets/img/tabbar/logo.png" alt="">
-        <div>购物车</div>
-    </div>
-    <div class="tab-bat-item">
-        <img src="../../assets/img/tabbar/logo.png" alt="">
-        <div>我的</div>
-    </div> -->
+
   </div>
 </template>
 
